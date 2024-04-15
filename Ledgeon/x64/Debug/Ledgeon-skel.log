@@ -1,0 +1,3 @@
+﻿  ledgeon.cpp
+C:\Users\vedan\OneDrive\Desktop\UC Work\Spring 2024\Computer Science\Ledgeon\ledgeon.cpp(11,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Ledgeon-skel.vcxproj -> C:\Users\vedan\OneDrive\Desktop\UC Work\Spring 2024\Computer Science\Ledgeon\x64\Debug\Ledgeon-skel.exe
