@@ -6,25 +6,50 @@ In this repository, you'll find various C++ lab projects covering a range of top
 
 ## Table of Contents
 
-- [Project 1: Introduction to C++](#project-1-introduction-to-c)
-- [Project 2: Data Structures](#project-2-data-structures)
-- [Project 3: Object-Oriented Programming](#project-3-object-oriented-programming)
-- [Project 4: Algorithms](#project-4-algorithms)
+- [Project 1: The Programmer's Almanac](#project-1-the-programmers-almanac)
+- [Project 2: An Apple a Day](#project-2-an-apple-a-day)
+- [Project 3: Work Harder, Not Smarter](#project-3-work-harder-not-smarter)
+- [Project 4: Used-Car Dappreciation](#project-4-used-car-dappreciation)
+- [Project 5: Veni, vidi, vici](#project-5-veni-vidi-vici)
+- [Project 6: Compiling, compilation, compiler](#project-6-compiling-compilation-compiler)
+- [Project 7: FCC: Friendly Communications Checker](#project-7-fcc-friendly-communications-checker)
+- [Project 8: Life is Like a Box of Squares](#project-8-life-is-like-a-box-of-squares)
+- [Project 9: Hermione's Handbag](#project-9-hermiones-handbag)
 - [Contributing](#contributing)
 
-## Project 1: Introduction to C++
+## Project 1: The Programmer's Almanac
 
 Description: This project introduces basic C++ syntax, variables, control flow, and functions.
 
-## Project 2: Data Structures
+## Project 2: An Apple a Day
 
 Description: Explore various data structures such as arrays, linked lists, stacks, queues, and trees in C++.
 
-## Project 3: Object-Oriented Programming
+## Project 3: Work Harder, Not Smarter
 
 Description: Learn the principles of object-oriented programming (OOP) in C++, including classes, inheritance, polymorphism, and encapsulation.
 
-## Project 4: Algorithms
+## Project 4: Used-Car Dappreciation
+
+Description: Implement common algorithms and data structures in C++ to solve algorithmic problems efficiently.
+
+## Project 5: Veni, vidi, vici
+
+Description: Implement common algorithms and data structures in C++ to solve algorithmic problems efficiently.
+
+## Project 6: Compiling, compilation, compiler
+
+Description: Implement common algorithms and data structures in C++ to solve algorithmic problems efficiently.
+
+## Project 7: FCC: Friendly Communications Checker
+
+Description: Implement common algorithms and data structures in C++ to solve algorithmic problems efficiently.
+
+## Project 8: Life is Like a Box of Squares
+
+Description: Implement common algorithms and data structures in C++ to solve algorithmic problems efficiently.
+
+## Project 9: Hermione's Handbag
 
 Description: Implement common algorithms and data structures in C++ to solve algorithmic problems efficiently.
 
